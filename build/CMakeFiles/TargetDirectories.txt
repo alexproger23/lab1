@@ -1,0 +1,4 @@
+C:/Users/Александр/gitprojects/лабы/lab1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Александр/gitprojects/лабы/lab1/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Александр/gitprojects/лабы/lab1/build/src/CMakeFiles/utils.dir
+C:/Users/Александр/gitprojects/лабы/lab1/build/src/CMakeFiles/main.dir
