@@ -33,3 +33,5 @@
 
 /.vs
 /out
+/bin.dbg
+/build
